@@ -80,8 +80,8 @@
 ---
 
 ## <span style="color:#9b59b6;">💡 Interests</span>
-- Product Analytics  
+- Data Analytics
 - Data Visualization  
-- Cloud Technologies  
+- Cloud Technologies 
 - Mentorship and Training  
 
