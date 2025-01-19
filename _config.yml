@@ -3,3 +3,9 @@ logo: /assets/img/headshot.png
 description: A Data Analytics portfolio 
 theme: jekyll-theme-minimal
 baseurl: "https://github.com/hemant102"
+
+
+social:
+  github: "https://github.com/hemant102"
+  linkedin: "https://www.linkedin.com/in/hemant95/"
+  email: "hemantpatil102@gmail.com"
