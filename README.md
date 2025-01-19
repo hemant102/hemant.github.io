@@ -4,12 +4,13 @@
   <a href="https://www.linkedin.com/in/hemant95/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-hemant95-0e76a8?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
-  <a href="mailto:hemantpatil102@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hemantpatil102@gmail.com-d14836?logo=gmail&style=for-the-badge" alt="Email">
-  </a>
   <a href="https://github.com/hemant102" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-hemant102-171515?logo=github&style=for-the-badge" alt="GitHub">
   </a>
+  <a href="mailto:hemantpatil102@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hemantpatil102@gmail.com-d14836?logo=gmail&style=for-the-badge" alt="Email">
+  </a>
+ 
 </div>
 
 ---
