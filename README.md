@@ -10,7 +10,6 @@
   <a href="mailto:hemantpatil102@gmail.com">
     <img src="https://img.shields.io/badge/Email-hemantpatil102@gmail.com-d14836?logo=gmail&style=for-the-badge" alt="Email">
   </a>
- 
 </div>
 
 ---
@@ -18,8 +17,8 @@
 ## <span style="color:#2980b9;">🛠 Technical Skills</span>
 - **Programming Languages**: Python, SQL  
 - **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Plotly  
-- **Data Platforms & Tools**: Snowflake Cloud Data Platform, Matillion Cloud ETL, Power BI, Tableau, Excel, Jupyter Notebooks
-- **Additional Skills**: Data Cleaning, Dashboarding, Storyboarding, Statistical Analysis, Data Governance  
+- **Data Platforms & Tools**: Snowflake Cloud Data Platform, Matillion Cloud ETL, Power BI, Tableau, Excel, Jupyter Notebooks 
+- **Additional Skills**: Data Cleaning, Dashboarding, Storyboarding, Statistical Analysis, Data Governance
 
 ---
 
@@ -57,7 +56,7 @@
 
 ### 🍴 Zomato Data Analysis and Insights  
 **GitHub**: [Zomato EDA Project](https://github.com/hemant102/Zomato_eda_project)  
-- Conducted Exploratory Data Analysis (EDA) on Zomato data to uncover trends in restaurant locations, cuisines, and pricing.  
+- Conducted Exploratory Data Analysis (EDA) on Zomato data to uncover restaurant locations, cuisines, and pricing trends.  
 - Created visualizations using Matplotlib and Seaborn to highlight restaurant distributions, cuisine preferences, and price patterns.  
 - Analyzed correlations between ratings, votes, and pricing to identify performance drivers and customer preferences.  
 - **Tools Used**: Python (pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook.  
@@ -85,3 +84,4 @@
 - Data Visualization  
 - Cloud Technologies  
 - Mentorship and Training  
+
