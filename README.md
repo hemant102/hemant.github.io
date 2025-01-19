@@ -1,4 +1,8 @@
-# Data Analyst & ETL Developer
+# Data Analyst 
+
+[LinkedIn](https://www.linkedin.com/in/hemant95/) | [Email](mailto:hemantpatil102@gmail.com) | [GitHub](https://github.com/hemant102)
+
+---
 
 #### Technical Skills:
 - **Programming Languages**: Python, SQL  
@@ -70,4 +74,3 @@
 - Data Visualization  
 - Cloud Technologies  
 - Mentorship and Training  
-
