@@ -15,10 +15,10 @@
 ---
 
 #### <span style="color:#1abc9c;">🛠 Technical Skills:</span>
-- **Programming Languages**: Python 🐍, SQL 💾  
-- **Libraries**: NumPy, Pandas, Matplotlib 📊, Seaborn, Plotly  
-- **Data Platforms & Tools**: Snowflake Cloud Data Platform ☁️, Matillion Cloud ETL, Power BI 📈, Tableau, Excel, Jupyter Notebooks 📒  
-- **Additional Skills**: Data Cleaning 🧹, Dashboarding 📊, Storyboarding 📝, Statistical Analysis 📐, Data Governance ✅  
+- **Programming Languages**: Python , SQL 
+- **Libraries**: NumPy, Pandas, Matplotlib , Seaborn, Plotly  
+- **Data Platforms & Tools**: Snowflake Cloud Data Platform , Matillion Cloud ETL, Power BI, Tableau, Excel, Jupyter Notebooks  
+- **Additional Skills**: Data Cleaning , Dashboarding , Storyboarding, Statistical Analysis, Data Governance  
 
 ---
 
@@ -38,13 +38,13 @@
 ### <span style="color:#8e44ad;">Co-Founder and Data Specialist @ Hyperise Technologies</span>  
 **_April 2023 – August 2024_**  
 - Gathered and analyzed data from databases, UX feedback, and marketing campaigns to derive actionable insights.  
-- Developed Power BI dashboards 📊 to track email click-through rates, user navigation patterns, and heatmaps, optimizing email content and CTA placements.  
+- Developed Power BI dashboards to track email click-through rates, user navigation patterns, and heatmaps, optimizing email content and CTA placements.  
 - Conducted user behavior analysis to identify website improvement areas, increasing engagement by 25%.  
 - Collaborated with UX and product teams to implement data-driven design changes, enhancing marketing campaigns and usability.  
 
 ### <span style="color:#8e44ad;">Senior Analyst @ Capgemini</span>  
 **_March 2021 – March 2023_**  
-- Designed and implemented ETL processes to migrate data from 20+ sources (e.g., MS SQL, Oracle, APIs, Salesforce) into Snowflake ☁️, reducing processing time by 30%.  
+- Designed and implemented ETL processes to migrate data from 20+ sources (e.g., MS SQL, Oracle, APIs, Salesforce) into Snowflake, reducing processing time by 30%.  
 - Optimized database performance through query tuning and indexing, reducing execution time by 40%.  
 - Configured monitoring tools and Power BI dashboards 📈 for real-time visualization, enabling faster trend identification.  
 - Enhanced data governance by implementing Row-Level Security (RLS) in Power BI and Role-Based Access Control (RBAC) in Snowflake, reducing unauthorized access by 30%.  
@@ -71,16 +71,16 @@
 ---
 
 ## <span style="color:#16a085;">🎓 Certifications</span>
-- **Matillion Associate Certification** 🥇  
+- **Matillion Associate Certification** 
 - **Snowflake Cloud Data Warehouse Training**  
-- **Google Data Analytics Certification** 📊  
+- **Google Data Analytics Certification**  
 - **SQL for Data Science (UC Davis, Coursera)**  
 - **Fundamentals of Visualization with Tableau (UC Davis, Coursera)**  
 
 ---
 
 ## <span style="color:#9b59b6;">💡 Interests</span>
-- Product Analytics 📦  
-- Data Visualization 📊  
-- Cloud Technologies ☁️  
-- Mentorship and Training 🎓  
+- Product Analytics 
+- Data Visualization  
+- Cloud Technologies  
+- Mentorship and Training  
