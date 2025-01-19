@@ -22,14 +22,40 @@
 
 ---
 
-## <span style="color:#1abc9c;">🎓 Education</span>
-- **PGDM, IT Project Management**  
-  _Welingkar Institute of Management Development and Research (Ongoing)_  
-  (_2024 – 2026_)
+## <span style="color:#f39c12;">📂 Projects</span>
 
-- **B.E., Computer Science Engineering**  
-  _Savitribai Phule Pune University_  
-  (_2016 – 2020_)
+### 🍴 Zomato Data Analysis and Insights  
+**GitHub**: [Zomato EDA Project](https://github.com/hemant102/Zomato_eda_project)  
+- Conducted Exploratory Data Analysis (EDA) on Zomato data to uncover restaurant locations, cuisines, and pricing trends.  
+- Created visualizations using Matplotlib and Seaborn to highlight restaurant distributions, cuisine preferences, and price patterns.  
+- Analyzed correlations between ratings, votes, and pricing to identify performance drivers and customer preferences.  
+- **Tools Used**: Python (pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook.  
+
+### 📊 Adventure Works Performance Dashboard  
+**Project**: [Adventure Works Dashboard](https://mavenanalytics.io/project/25289)  
+- Extracted, cleaned, and modeled data using Power Query and star schemas to optimize analysis.  
+- Designed calculated fields with DAX for advanced analytics, including KPIs and time intelligence.  
+- Built interactive Power BI dashboards with slicers, drill-throughs, and map visuals to analyze product and customer trends.  
+- **Tools Used**: Power BI (Power Query, DAX), SQL, Excel.
+
+### 🍴 Zomato Data Analysis and Insights  
+**GitHub**: [Zomato EDA Project](https://github.com/hemant102/Zomato_eda_project)  
+- Conducted Exploratory Data Analysis (EDA) on Zomato data to uncover restaurant locations, cuisines, and pricing trends.  
+- Created visualizations using Matplotlib and Seaborn to highlight restaurant distributions, cuisine preferences, and price patterns.  
+- Analyzed correlations between ratings, votes, and pricing to identify performance drivers and customer preferences.  
+- **Tools Used**: Python (pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook.  
+
+
+### 🚀 YouTube Data Analysis and Sentiment Insights
+**GitHub**: [YouTube Data Analysis and Sentiment Insights](https://github.com/hemant102/Youtube_Comments_EDA) 
+◦ Data Cleaning and Sentiment Analysis: Preprocessed datasets and performed sentiment analysis on YouTube
+comments using TextBlob.
+◦ Trend and Emoji Analysis: Visualized trends and frequently used terms with word clouds and analyzed emoji usage
+to derive engagement insights.
+◦ Correlation Analysis: Examined relationships between views, likes, comments, and engagement metrics to uncover
+performance drivers.
+◦ Tools Used: Python (pandas, numpy, matplotlib, seaborn), TextBlob, WordCloud library
+  
 
 ---
 
@@ -50,23 +76,6 @@
 - Enhanced data governance by implementing Row-Level Security (RLS) in Power BI and Role-Based Access Control (RBAC) in Snowflake, reducing unauthorized access by 30%.  
 - Engaged with clients to map business processes and deliver tailored, data-driven solutions aligned with objectives.  
 
----
-
-## <span style="color:#f39c12;">📂 Projects</span>
-
-### 🍴 Zomato Data Analysis and Insights  
-**GitHub**: [Zomato EDA Project](https://github.com/hemant102/Zomato_eda_project)  
-- Conducted Exploratory Data Analysis (EDA) on Zomato data to uncover restaurant locations, cuisines, and pricing trends.  
-- Created visualizations using Matplotlib and Seaborn to highlight restaurant distributions, cuisine preferences, and price patterns.  
-- Analyzed correlations between ratings, votes, and pricing to identify performance drivers and customer preferences.  
-- **Tools Used**: Python (pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook.  
-
-### 📊 Adventure Works Performance Dashboard  
-**Project**: [Adventure Works Dashboard](https://mavenanalytics.io/project/25289)  
-- Extracted, cleaned, and modeled data using Power Query and star schemas to optimize analysis.  
-- Designed calculated fields with DAX for advanced analytics, including KPIs and time intelligence.  
-- Built interactive Power BI dashboards with slicers, drill-throughs, and map visuals to analyze product and customer trends.  
-- **Tools Used**: Power BI (Power Query, DAX), SQL, Excel.  
 
 ---
 
@@ -77,6 +86,17 @@
 - **SQL for Data Science (UC Davis, Coursera)**  
 - **Fundamentals of Visualization with Tableau (UC Davis, Coursera)**  
 
+---
+
+## <span style="color:#1abc9c;">🎓 Education</span>
+- **PGDM, IT Project Management**  
+  _Welingkar Institute of Management Development and Research (Ongoing)_  
+  (_2024 – 2026_)
+
+- **B.E., Computer Science Engineering**  
+  _Savitribai Phule Pune University_  
+  (_2016 – 2020_)
+  
 ---
 
 ## <span style="color:#9b59b6;">💡 Interests</span>
