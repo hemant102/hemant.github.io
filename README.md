@@ -1,4 +1,4 @@
-# Data Analyst & ETL Developer
+# Data Analyst 
 
 #### Technical Skills:
 - **Programming Languages**: Python, SQL  
