@@ -1,8 +1,16 @@
-# <span style="color:#2c3e50;">Data Analyst </span>
+# <span style="color:#2c3e50;">🖥️ Data Analyst </span>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hemant95-blue?logo=linkedin)](https://www.linkedin.com/in/hemant95/)  
-📧 [hemantpatil102@gmail.com](mailto:hemantpatil102@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-hemant102-black?logo=github)](https://github.com/hemant102)
+<div style="display: flex; align-items: center; gap: 20px; margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/hemant95/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-hemant95-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:hemantpatil102@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hemantpatil102@gmail.com-red?logo=gmail" alt="Email">
+  </a>
+  <a href="https://github.com/hemant102" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-hemant102-black?logo=github" alt="GitHub">
+  </a>
+</div>
 
 ---
 
