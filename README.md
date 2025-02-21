@@ -54,13 +54,6 @@ performance drivers.
 
 ## <span style="color:#8e44ad;">💼 Work Experience</span>
 
-### Co-Founder and Data Specialist @ Hyperise Technologies  
-**_April 2023 – August 2024_**  
-- Gathered and analyzed data from databases, UX feedback, and marketing campaigns to derive actionable insights.  
-- Developed Power BI dashboards to track email click-through rates, user navigation patterns, and heatmaps, optimizing email content and CTA placements.  
-- Conducted user behavior analysis to identify website improvement areas, increasing engagement by 25%.  
-- Collaborated with UX and product teams to implement data-driven design changes, enhancing marketing campaigns and usability.  
-
 ### Senior Analyst @ Capgemini  
 **_March 2021 – March 2023_**  
 - Designed and implemented ETL processes to migrate data from 20+ sources (e.g., MS SQL, Oracle, APIs, Salesforce) into Snowflake, reducing processing time by 30%.  
